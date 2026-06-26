@@ -36,7 +36,7 @@ Programo desde o 1.º ano em C, C++ e Java, com foco em **sistemas operativos** 
 ### 📂 Projetos públicos
 
 - **[TP-SO2 — Placar Informativo](https://github.com/costasnz/TP-SO2)** — sistema distribuído em **C / Win32** (~1300 linhas): 3 programas que comunicam por **named pipes** e **memória partilhada**, com threads, sincronização e GUI nativa. _Com Vítor Silva._
-- **[EstudoC](https://github.com/costasnz/EstudoC)** — 90 exercícios de C, do "Hello World" a ponteiros, structs, recursão e ficheiros.
+- **[Simulador de Jardim](https://github.com/costasnz/poo-simulador-jardim)** — simulador em **C++** (~2400 linhas): duas hierarquias polimórficas com classes abstratas, herança e destrutores virtuais (POO). _Com Pedro Saraiva._
 
 ### 📫 Falar comigo
 
