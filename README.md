@@ -37,6 +37,7 @@ Programo desde o 1.º ano em C, C++ e Java, com foco em **sistemas operativos** 
 
 - **[TP-SO2 — Placar Informativo](https://github.com/costasnz/TP-SO2)** — sistema distribuído em **C / Win32** (~1300 linhas): 3 programas que comunicam por **named pipes** e **memória partilhada**, com threads, sincronização e GUI nativa. _Com Vítor Silva._
 - **[Simulador de Jardim](https://github.com/costasnz/poo-simulador-jardim)** — simulador em **C++** (~2400 linhas): duas hierarquias polimórficas com classes abstratas, herança e destrutores virtuais (POO). _Com Pedro Saraiva._
+- **[Deep Sea Mining](https://github.com/costasnz/pa-deep-sea-mining)** — jogo em **Java / JavaFX** (~5000 linhas): máquina de estados (State pattern), arquitetura MVC e testes JUnit. _Com Ricardo Santos e José Silva._
 
 ### 📫 Falar comigo
 
