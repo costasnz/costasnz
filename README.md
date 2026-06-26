@@ -19,23 +19,29 @@ Programo desde o 1.º ano em C, C++ e Java, com foco em **sistemas operativos** 
 
 ### 🛠️ Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-89E051?style=flat&logo=gnubash&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Shell-89E051?style=flat&logo=gnubash&logoColor=black" alt="Shell" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
 
 **Áreas:** Sistemas Operativos · Estruturas de Dados & Algoritmos · Bases de Dados (modelação ER + SQL) · IA (agentes, raciocínio) · Interação Pessoa-Máquina.
 
-### 📊 GitHub
+### 📂 Projetos públicos
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=costasnz&show_icons=true&count_private=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costasnz&layout=compact&hide_border=true&theme=default" />
+- **[EstudoC](https://github.com/costasnz/EstudoC)** — 90 exercícios de C, do "Hello World" a ponteiros, structs, recursão e ficheiros.
+- **[agnus-aeronaves](https://github.com/costasnz/agnus-aeronaves)** — réplica de um site de companhia aérea em HTML/CSS/JS (cadeira de Tecnologias Web).
+
+### 📊 Linguagens
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costasnz&layout=compact&hide_border=true&theme=default" alt="Linguagens mais usadas" />
 </p>
 
 ### 📫 Falar comigo
@@ -44,4 +50,4 @@ Programo desde o 1.º ano em C, C++ e Java, com foco em **sistemas operativos** 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-URL) -->
 <!-- [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:SEU-EMAIL) -->
 
-📂 **A maior parte do código é trabalho académico e está em repositórios privados** (sistemas operativos, C++, bases de dados, IA). **Recrutadores: posso dar acesso a pedido** — é só mandar mensagem.
+📂 O trabalho de cadeira (sistemas operativos, C++, bases de dados, IA) está em **repositórios privados** por conter trabalho de grupo. **Recrutadores: posso dar acesso a pedido** — é só mandar mensagem.
