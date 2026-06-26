@@ -38,12 +38,6 @@ Programo desde o 1.º ano em C, C++ e Java, com foco em **sistemas operativos** 
 - **[EstudoC](https://github.com/costasnz/EstudoC)** — 90 exercícios de C, do "Hello World" a ponteiros, structs, recursão e ficheiros.
 - **[agnus-aeronaves](https://github.com/costasnz/agnus-aeronaves)** — réplica de um site de companhia aérea em HTML/CSS/JS (cadeira de Tecnologias Web).
 
-### 📊 Linguagens
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costasnz&layout=compact&hide_border=true&theme=default" alt="Linguagens mais usadas" />
-</p>
-
 ### 📫 Falar comigo
 
 <!-- TODO Rúben: descomenta e preenche quando quiseres -->
